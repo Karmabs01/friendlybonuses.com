@@ -5,7 +5,6 @@ import Link from "next/link";
 
 import Image from "next/image";
 
-
 const BannerWindow = () => {
   const [showModal, setShowModal] = useState(false);
   const [isActive, setIsActive] = useState(false);
