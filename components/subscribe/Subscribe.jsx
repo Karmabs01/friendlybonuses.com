@@ -171,7 +171,7 @@ const Subscribe = () => {
             className="mr-2"
           />
 
-          {t("I agree to receive promotional sms from Friendlybonuses")}
+          {t("I agree to receive promotional sms from B-Onuses")}
         </label>
       </div>
       <span className="flex mt-5">
