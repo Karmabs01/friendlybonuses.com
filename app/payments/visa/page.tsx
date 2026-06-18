@@ -8,8 +8,8 @@ import GuideSlotsPage from "@/components/GuideSlotsPage";
 import Visa from "@/components/payments/Visa";
 
 export const metadata: Metadata = {
-  title: "Visa payments | Friendlybonuses",
-  description: "Master the world of Visa payments in online casinos with Friendlybonuses's detailed guide. Trusted worldwide, Visa offers speedy transactions, top-notch security, and wide acceptance. Our in-depth analysis covers everything you need to know, from setting up your account to withdrawal speeds. Plus, discover which top-rated casinos accept Visa, so you can play with peace of mind. Get ready to make your casino experience even more convenient with our expert insights on Visa payments!",
+  title: "Visa payments | Gamblers4Gamblers",
+  description: "Master the world of Visa payments in online casinos with Gamblers4Gamblers's detailed guide. Trusted worldwide, Visa offers speedy transactions, top-notch security, and wide acceptance. Our in-depth analysis covers everything you need to know, from setting up your account to withdrawal speeds. Plus, discover which top-rated casinos accept Visa, so you can play with peace of mind. Get ready to make your casino experience even more convenient with our expert insights on Visa payments!",
 };
 
 export default async function Bonuses() {
