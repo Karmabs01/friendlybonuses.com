@@ -40,32 +40,41 @@ const Subscribe = () => {
   }, []);
 
   const handleSubscribe = () => {
-    setError(""); // Сброс ошибки перед проверкой
+    setError("");
+
+    // Need at least one contact method (email OR phone)
+    if (!email && !phone) {
+      setError(t("subscribe.error1"));
+      return;
+    }
+    // If an email is entered, it must be valid
+    if (email && !/\S+@\S+\.\S+/.test(email)) {
+      setError(t("subscribe.error2"));
+      return;
+    }
+
     setLoading(true);
 
-    // Simulate a loading delay of 2 seconds
-    setTimeout(() => {
-      setLoading(false);
-      if (!email && !phone) {
-        setError(t("subscribe.error1"));
-      } else if (!/\S+@\S+\.\S+/.test(email)) {
-        setError(t("subscribe.error2"));
-      } else {
-        console.log("after", email, phone);
-        _cio.identify({
-          id: email,
-          email: email,
-          phone: phone,
-        });
-        console.log("before", email, phone);
+    const identifier = email || phone;
+    const traits = { id: identifier, created_at: Math.floor(Date.now() / 1000) };
+    if (email) traits.email = email;
+    if (phone) traits.phone = phone;
 
-        setEmail("");
-        setPhone("");
-        setPopupText(t("subscribe.congrats"));
-        setPopupVisible(true);
-        setCountUsers((prevCount) => prevCount + 1);
+    try {
+      if (typeof window !== "undefined" && window._cio) {
+        window._cio.identify(traits);
+        window._cio.track("subscribed", { email, phone });
       }
-    }, 1000);
+    } catch (err) {
+      console.error("subscribe error", err);
+    }
+
+    setEmail("");
+    setPhone("");
+    setPopupText(t("subscribe.congrats"));
+    setPopupVisible(true);
+    setCountUsers((prevCount) => prevCount + 1);
+    setLoading(false);
   };
 
   const closePopup = () => {
