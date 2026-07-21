@@ -51,7 +51,7 @@ export default function RootLayout({
                   s = document.getElementsByTagName('script')[0];
               t.async = true;
               t.id    = 'cio-tracker';
-              t.setAttribute('data-site-id', 'e5eea51a28a74ee1810f');
+              t.setAttribute('data-site-id', '3e6b645c461aedd08feb');
               t.src = 'https://assets.customer.io/assets/track-eu.js';
               s.parentNode.insertBefore(t, s);
             })();
