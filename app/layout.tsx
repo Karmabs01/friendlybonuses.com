@@ -9,9 +9,9 @@ import Script from "next/script";
 
 export const metadata: Metadata = {
   title:
-    "Friendlybonuses: Your Comprehensive Source for Casino Reviews and Insights",
+    "EldoradoReviews: Your Comprehensive Source for Casino Reviews and Insights",
   description:
-    "Welcome to Friendlybonuses, your ultimate destination for comprehensive casino reviews and invaluable insights. Whether you're a seasoned gambler or just starting your casino journey, we're here to guide you through the world of online casinos. Our expert team meticulously reviews casinos, covering game variety, bonuses, payment options, security, and more. With our in-depth analysis and unbiased recommendations, you can make informed decisions and elevate your gaming experience. Explore our extensive database, stay updated with the latest trends, and embark on a rewarding casino adventure with Friendlybonuses.",
+    "Welcome to EldoradoReviews, your ultimate destination for comprehensive casino reviews and invaluable insights. Whether you're a seasoned gambler or just starting your casino journey, we're here to guide you through the world of online casinos. Our expert team meticulously reviews casinos, covering game variety, bonuses, payment options, security, and more. With our in-depth analysis and unbiased recommendations, you can make informed decisions and elevate your gaming experience. Explore our extensive database, stay updated with the latest trends, and embark on a rewarding casino adventure with EldoradoReviews.",
 };
 
 export default function RootLayout({

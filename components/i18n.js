@@ -12,12 +12,12 @@ const resources = {
     translation: {
       guideposts: enTranslation,
       guideslotsguide:
-        "If you aspire to hit the jackpot, delve into the world of online slots through our comprehensive guides on Friendlybonuses.com. All the information you need, from paylines to progressive jackpots, is available on a single platform! Stay updated with the latest developments in the slot gambling realm and even try out free slot games directly from your device. Our collection of online gambling guides ensures easy access to all there is to know about slots. While it might seem like slot machines are a matter of mere 'hit and spin', there are tricks and strategies that can enhance your experience. Our guides are designed to empower you with a complete understanding of how slots operate, granting you full control over your gaming sessions.",
+        "If you aspire to hit the jackpot, delve into the world of online slots through our comprehensive guides on eldoradoreviews.com. All the information you need, from paylines to progressive jackpots, is available on a single platform! Stay updated with the latest developments in the slot gambling realm and even try out free slot games directly from your device. Our collection of online gambling guides ensures easy access to all there is to know about slots. While it might seem like slot machines are a matter of mere 'hit and spin', there are tricks and strategies that can enhance your experience. Our guides are designed to empower you with a complete understanding of how slots operate, granting you full control over your gaming sessions.",
       guideslotsguide2:
         "In search of the perfect repository for tips, fun facts, and advice to boost your chances of winning? Look no further as we provide quick access to some of the most relevant slots guides and free slots games hosted on our website.",
       "guideslotsguide.title": "Gambling Guides",
       "guideslotsguide.excerpt":
-        "If you aspire to hit the jackpot, delve into the world of online slots through our comprehensive guides on Friendlybonuses.com. All the information you need, from paylines to progressive jackpots, is available on a single platform! Stay updated with the latest developments in the slot gambling realm and even try out free slot games directly from your device.",
+        "If you aspire to hit the jackpot, delve into the world of online slots through our comprehensive guides on eldoradoreviews.com. All the information you need, from paylines to progressive jackpots, is available on a single platform! Stay updated with the latest developments in the slot gambling realm and even try out free slot games directly from your device.",
 
       "subscribe.button": "Subscribe",
       "subscribe.email": "Email",
@@ -32,7 +32,7 @@ const resources = {
       "subscribe.and": "and",
       "subscribe.policy": " Privacy Policy ",
 
-      "subscribe.promotional": "I agree to receive promotional emails from Friendlybonuses and its partners",
+      "subscribe.promotional": "I agree to receive promotional emails from EldoradoReviews and its partners",
 
      
 
@@ -83,7 +83,7 @@ const resources = {
       "subscribe.text": "of the newsletters we're sending out!",
       "subscribe.link": "See some examples",
 
-      "topBrands.title": "Friendlybonuses Best Choices for 2024",
+      "topBrands.title": "EldoradoReviews Best Choices for 2024",
       "newBrands.title": "Latest Casino Additions 2024",
 
       "reviewBrands.title1": "All meticulously reviewed online casinos",
@@ -418,9 +418,9 @@ const resources = {
         "Unlocking 15 Websites That Will Boost Your Brand to New Heights",
       "footer.link": "Start Working With Us",
       "footer.about":
-        "Friendlybonuses.com positions itself as an exceptional source of information about virtual gaming establishments and online gambling entertainment. All our reviews and guides are crafted in accordance with the knowledge and convictions of our independent team of experts, objectively and without any bias. Nevertheless,such assessments and notifications are provided solely for informational purposes and should not be considered legal advice or a basis for making legal decisions. Before commencing participation in your chosen casino, always ensure that you comply with all applicable legal requirements.",
+        "eldoradoreviews.com positions itself as an exceptional source of information about virtual gaming establishments and online gambling entertainment. All our reviews and guides are crafted in accordance with the knowledge and convictions of our independent team of experts, objectively and without any bias. Nevertheless,such assessments and notifications are provided solely for informational purposes and should not be considered legal advice or a basis for making legal decisions. Before commencing participation in your chosen casino, always ensure that you comply with all applicable legal requirements.",
       "footer.copyright":
-        "Copyright © 2024, Friendlybonuses.com All rights reserved.",
+        "Copyright © 2024, eldoradoreviews.com All rights reserved.",
     },
   },
 
@@ -428,12 +428,12 @@ const resources = {
     translation: {
       guideposts: plTranslation,
       guideslotsguide:
-        "Jeśli marzysz o wygraniu dużego jackpota, zanurz się w świat online slotów dzięki naszym wszechstronnym przewodnikom na Friendlybonuses.com. Wszystkie informacje, których potrzebujesz, od linii wypłat do progresywnych jackpotów, są dostępne na jednej platformie! Bądź na bieżąco z najnowszymi wydarzeniami w świecie hazardu na automatach i nawet wypróbuj darmowe gry na automatach bezpośrednio z Twojego urządzenia. Nasza kolekcja przewodników po hazardzie online zapewnia łatwy dostęp do wszystkiego, co musisz wiedzieć o slotach. Chociaż może się wydawać, że automaty to kwestia zwykłego 'naciśnij i kręć', istnieją triki i strategie, które mogą uatrakcyjnić Twoje doświadczenia.",
+        "Jeśli marzysz o wygraniu dużego jackpota, zanurz się w świat online slotów dzięki naszym wszechstronnym przewodnikom na eldoradoreviews.com. Wszystkie informacje, których potrzebujesz, od linii wypłat do progresywnych jackpotów, są dostępne na jednej platformie! Bądź na bieżąco z najnowszymi wydarzeniami w świecie hazardu na automatach i nawet wypróbuj darmowe gry na automatach bezpośrednio z Twojego urządzenia. Nasza kolekcja przewodników po hazardzie online zapewnia łatwy dostęp do wszystkiego, co musisz wiedzieć o slotach. Chociaż może się wydawać, że automaty to kwestia zwykłego 'naciśnij i kręć', istnieją triki i strategie, które mogą uatrakcyjnić Twoje doświadczenia.",
       guideslotsguide2:
         "Szukasz idealnego źródła wskazówek, ciekawostek i porad, które zwiększą Twoje szanse na wygraną? Nie szukaj dalej, zapewniamy szybki dostęp do najbardziej istotnych przewodników o slotach i darmowych gier na automatach umieszczonych na naszej stronie.",
       "guideslotsguide.title": "Przewodniki po Hazardzie",
       "guideslotsguide.excerpt":
-        "Jeśli marzysz o wygraniu dużego jackpota, zanurz się w świat online slotów dzięki naszym wszechstronnym przewodnikom na Friendlybonuses.com. Wszystkie informacje, których potrzebujesz, od linii wypłat do progresywnych jackpotów, są dostępne na jednej platformie! Bądź na bieżąco z najnowszymi wydarzeniami w świecie hazardu na automatach i nawet wypróbuj darmowe gry na automatach bezpośrednio z Twojego urządzenia.",
+        "Jeśli marzysz o wygraniu dużego jackpota, zanurz się w świat online slotów dzięki naszym wszechstronnym przewodnikom na eldoradoreviews.com. Wszystkie informacje, których potrzebujesz, od linii wypłat do progresywnych jackpotów, są dostępne na jednej platformie! Bądź na bieżąco z najnowszymi wydarzeniami w świecie hazardu na automatach i nawet wypróbuj darmowe gry na automatach bezpośrednio z Twojego urządzenia.",
       "play.to.casino": "Zagraj teraz w to kasyno",
 
       "subscribe.button": "Subskrybuj",
@@ -446,7 +446,7 @@ const resources = {
       "subscribe.terms": "Regulaminem",
       "subscribe.and": "i",
       "subscribe.policy": "Polityką Prywatności",
-      "subscribe.promotional": "Zgadzam się na otrzymywanie wiadomości promocyjnych od Friendlybonuses i jego partnerów",
+      "subscribe.promotional": "Zgadzam się na otrzymywanie wiadomości promocyjnych od EldoradoReviews i jego partnerów",
 
       "header.home": "Strona Główna",
       "header.bonuses": "Bonusy ▼",
@@ -493,7 +493,7 @@ const resources = {
       "subscribe.text": "do newsletterów, które wysyłamy!",
       "subscribe.link": "Zobacz przykłady",
 
-      "topBrands.title": "Najlepsze Wybory Friendlybonuses na 2024",
+      "topBrands.title": "Najlepsze Wybory EldoradoReviews na 2024",
       "newBrands.title": "Najnowsze Dodatki do Kasyn 2024",
 
       "reviewBrands.title1": "Wszystkie starannie recenzowane kasyna online",
@@ -844,22 +844,22 @@ const resources = {
         "Odblokowanie 15 Stron Internetowych, Które Wypromują Twoją Markę na Nowe Szczyty",
       "footer.link": "Zacznij z Nami Współpracę",
       "footer.about":
-        "Friendlybonuses.com prezentuje się jako wyjątkowe źródło informacji na temat wirtualnych zakładów hazardowych i rozrywki związanej z hazardem online. Wszystkie nasze recenzje i poradniki są tworzone zgodnie z wiedzą i przekonaniami naszego niezależnego zespołu ekspertów, obiektywnie i bezstronnie. Niemniej jednak, takie oceny i powiadomienia są dostarczane wyłącznie w celach informacyjnych i nie powinny być uznawane za porady prawne ani za podstawę do podejmowania decyzji prawnych. Zanim rozpoczniesz udział w wybranym kasynie, zawsze upewnij się, że spełniasz wszystkie obowiązujące wymagania prawne.",
+        "eldoradoreviews.com prezentuje się jako wyjątkowe źródło informacji na temat wirtualnych zakładów hazardowych i rozrywki związanej z hazardem online. Wszystkie nasze recenzje i poradniki są tworzone zgodnie z wiedzą i przekonaniami naszego niezależnego zespołu ekspertów, obiektywnie i bezstronnie. Niemniej jednak, takie oceny i powiadomienia są dostarczane wyłącznie w celach informacyjnych i nie powinny być uznawane za porady prawne ani za podstawę do podejmowania decyzji prawnych. Zanim rozpoczniesz udział w wybranym kasynie, zawsze upewnij się, że spełniasz wszystkie obowiązujące wymagania prawne.",
       "footer.copyright":
-        "Prawa autorskie © 2024, Friendlybonuses.com Wszelkie prawa zastrzeżone.",
+        "Prawa autorskie © 2024, eldoradoreviews.com Wszelkie prawa zastrzeżone.",
     },
   },
   no: {
     translation: {
       guideposts: noTranslation,
       guideslotsguide:
-        "Hvis du aspirerer til å treffe jackpotten, dykk inn i verden av nettspilleautomater gjennom våre omfattende guider på Friendlybonuses.com. All den informasjonen du trenger, fra gevinstlinjer til progressive jackpotter, er tilgjengelig på én enkelt plattform! Hold deg oppdatert med de nyeste utviklingene innen spilleautomatgambling og prøv til og med ut gratis spilleautomatspill direkte fra enheten din. Vår samling av nettspillguider sikrer enkel tilgang til alt du trenger å vite om spilleautomater. Mens det kan virke som om spilleautomater er en ren 'trykk og snurr'-sak, finnes det triks og strategier som kan forbedre opplevelsen din. Våre guider er designet for å gi deg full forståelse av hvordan spilleautomater fungerer, og gi deg full kontroll over spilløktene dine.",
+        "Hvis du aspirerer til å treffe jackpotten, dykk inn i verden av nettspilleautomater gjennom våre omfattende guider på eldoradoreviews.com. All den informasjonen du trenger, fra gevinstlinjer til progressive jackpotter, er tilgjengelig på én enkelt plattform! Hold deg oppdatert med de nyeste utviklingene innen spilleautomatgambling og prøv til og med ut gratis spilleautomatspill direkte fra enheten din. Vår samling av nettspillguider sikrer enkel tilgang til alt du trenger å vite om spilleautomater. Mens det kan virke som om spilleautomater er en ren 'trykk og snurr'-sak, finnes det triks og strategier som kan forbedre opplevelsen din. Våre guider er designet for å gi deg full forståelse av hvordan spilleautomater fungerer, og gi deg full kontroll over spilløktene dine.",
       guideslotsguide2:
         "Er du på jakt etter det perfekte stedet for tips, morsomme fakta og råd som kan øke vinnersjansene dine? Ikke se lenger, da vi gir deg rask tilgang til noen av de mest relevante spilleautomatguidene og gratis spilleautomatspillene som er vert på nettsiden vår.",
 
       "guideslotsguide.title": "Spilleguider",
       "guideslotsguide.excerpt":
-        "Hvis du aspirerer til å treffe jackpotten, dykk inn i verden av nettspilleautomater gjennom våre omfattende guider på Friendlybonuses.com. All den informasjonen du trenger, fra gevinstlinjer til progressive jackpotter, er tilgjengelig på én enkelt plattform! Hold deg oppdatert med de nyeste utviklingene innen spilleautomatgambling og prøv til og med ut gratis spilleautomatspill direkte fra enheten din.",
+        "Hvis du aspirerer til å treffe jackpotten, dykk inn i verden av nettspilleautomater gjennom våre omfattende guider på eldoradoreviews.com. All den informasjonen du trenger, fra gevinstlinjer til progressive jackpotter, er tilgjengelig på én enkelt plattform! Hold deg oppdatert med de nyeste utviklingene innen spilleautomatgambling og prøv til og med ut gratis spilleautomatspill direkte fra enheten din.",
       "play.to.casino": "Spill nå på dette kasinoet",
 
       "subscribe.button": "Abonner",
@@ -872,7 +872,7 @@ const resources = {
       "subscribe.terms": "Vilkår og betingelser",
       "subscribe.and": "og",
       "subscribe.policy": "Personvernpolitikken",
-      "subscribe.promotional": "Jeg samtykker i å motta reklame-e-poster fra Friendlybonuses og dets partnere",
+      "subscribe.promotional": "Jeg samtykker i å motta reklame-e-poster fra EldoradoReviews og dets partnere",
 
       "header.home": "Hjem",
       "header.bonuses": "Bonuser ▼",
@@ -919,7 +919,7 @@ const resources = {
       "subscribe.text": "av nyhetsbrevene vi sender ut!",
       "subscribe.link": "Zobacz przykłady",
 
-      "topBrands.title": "Friendlybonuses Beste Valg for 2024",
+      "topBrands.title": "EldoradoReviews Beste Valg for 2024",
       "newBrands.title": "Nyeste Kasino Tillegg 2024",
 
       "reviewBrands.title1": "Alle nøye gjennomgåtte online kasinoer",
@@ -1260,21 +1260,21 @@ const resources = {
         "Låser opp 15 nettsteder som vil gi merket ditt et løft til nye høyder",
       "footer.link": "Start Sammen Med Oss",
       "footer.about":
-        "Friendlybonuses.com posisjonerer seg som en enestående kilde til informasjon om virtuelle spillsteder og online gambling-underholdning. Alle våre anmeldelser og guider er utarbeidet i samsvar med kunnskapen og overbevisningene til vårt uavhengige ekspertteam, objektivt og uten noen form for fordommer. Likevel, slike vurderinger og meldinger tilbys kun til informasjonsformål og skal ikke betraktes som juridisk rådgivning eller grunnlag for å fatte juridiske beslutninger. Før du begynner deltakelsen i ditt valgte kasino, må du alltid sørge for at du overholder alle gjeldende juridiske krav.",
+        "eldoradoreviews.com posisjonerer seg som en enestående kilde til informasjon om virtuelle spillsteder og online gambling-underholdning. Alle våre anmeldelser og guider er utarbeidet i samsvar med kunnskapen og overbevisningene til vårt uavhengige ekspertteam, objektivt og uten noen form for fordommer. Likevel, slike vurderinger og meldinger tilbys kun til informasjonsformål og skal ikke betraktes som juridisk rådgivning eller grunnlag for å fatte juridiske beslutninger. Før du begynner deltakelsen i ditt valgte kasino, må du alltid sørge for at du overholder alle gjeldende juridiske krav.",
       "footer.copyright":
-        "Opphavsrett © 2024, Friendlybonuses.com Alle rettigheter reservert.",
+        "Opphavsrett © 2024, eldoradoreviews.com Alle rettigheter reservert.",
     },
   },
   de: {
     translation: {
       guideposts: deTranslation,
       guideslotsguide:
-        "Wenn Sie darauf abzielen, den Jackpot zu knacken, tauchen Sie ein in die Welt der Online-Slots durch unsere umfassenden Anleitungen auf Friendlybonuses.com. Alle Informationen, die Sie benötigen, von Gewinnlinien bis zu progressiven Jackpots, sind auf einer einzigen Plattform verfügbar! Bleiben Sie auf dem Laufenden über die neuesten Entwicklungen im Bereich des Slot-Glücksspiels und probieren Sie sogar kostenlose Slot-Spiele direkt von Ihrem Gerät aus. Unsere Sammlung von Online-Glücksspielführern ermöglicht Ihnen einen einfachen Zugang zu allem, was es über Slots zu wissen gibt. Obwohl es auf den ersten Blick so erscheinen mag, als ob Spielautomaten nur ein simples 'Drehen und Gewinnen' sind, gibt es Tricks und Strategien, die Ihr Erlebnis verbessern können. Unsere Anleitungen sind darauf ausgerichtet, Ihnen ein umfassendes Verständnis dafür zu vermitteln, wie Slots funktionieren, und Ihnen volle Kontrolle über Ihre Spielerlebnisse zu gewähren.",
+        "Wenn Sie darauf abzielen, den Jackpot zu knacken, tauchen Sie ein in die Welt der Online-Slots durch unsere umfassenden Anleitungen auf eldoradoreviews.com. Alle Informationen, die Sie benötigen, von Gewinnlinien bis zu progressiven Jackpots, sind auf einer einzigen Plattform verfügbar! Bleiben Sie auf dem Laufenden über die neuesten Entwicklungen im Bereich des Slot-Glücksspiels und probieren Sie sogar kostenlose Slot-Spiele direkt von Ihrem Gerät aus. Unsere Sammlung von Online-Glücksspielführern ermöglicht Ihnen einen einfachen Zugang zu allem, was es über Slots zu wissen gibt. Obwohl es auf den ersten Blick so erscheinen mag, als ob Spielautomaten nur ein simples 'Drehen und Gewinnen' sind, gibt es Tricks und Strategien, die Ihr Erlebnis verbessern können. Unsere Anleitungen sind darauf ausgerichtet, Ihnen ein umfassendes Verständnis dafür zu vermitteln, wie Slots funktionieren, und Ihnen volle Kontrolle über Ihre Spielerlebnisse zu gewähren.",
       guideslotsguide2:
         "Auf der Suche nach dem perfekten Handbuch für Tipps, unterhaltsame Fakten und Ratschläge, um Ihre Gewinnchancen zu steigern? Suchen Sie nicht weiter, denn wir bieten schnellen Zugriff auf einige der relevantesten Slot-Anleitungen und kostenlose Slot-Spiele, die auf unserer Website gehostet werden.",
       "guideslotsguide.title": "Glücksspiel-Anleitungen",
       "guideslotsguide.excerpt":
-        "Wenn Sie den Jackpot knacken möchten, tauchen Sie ein in die Welt der Online-Slots durch unsere umfassenden Anleitungen auf Friendlybonuses.com. Alle Informationen, die Sie benötigen, von Gewinnlinien bis zu progressiven Jackpots, sind auf einer einzigen Plattform verfügbar! Bleiben Sie auf dem Laufenden über die neuesten Entwicklungen im Bereich des Slot-Glücksspiels und probieren Sie sogar kostenlose Slot-Spiele direkt von Ihrem Gerät aus.",
+        "Wenn Sie den Jackpot knacken möchten, tauchen Sie ein in die Welt der Online-Slots durch unsere umfassenden Anleitungen auf eldoradoreviews.com. Alle Informationen, die Sie benötigen, von Gewinnlinien bis zu progressiven Jackpots, sind auf einer einzigen Plattform verfügbar! Bleiben Sie auf dem Laufenden über die neuesten Entwicklungen im Bereich des Slot-Glücksspiels und probieren Sie sogar kostenlose Slot-Spiele direkt von Ihrem Gerät aus.",
       "play.to.casino": "Jetzt im Casino spielen",
       
       "subscribe.button": "Abonnieren",
@@ -1288,7 +1288,7 @@ const resources = {
       "subscribe.terms": "Allgemeinen Geschäftsbedingungen",
       "subscribe.and": "und",
       "subscribe.policy": "Datenschutzrichtlinie",
-      "subscribe.promotional": "Ich stimme zu, Werbe-E-Mails von Friendlybonuses und seinen Partnern zu erhalten",
+      "subscribe.promotional": "Ich stimme zu, Werbe-E-Mails von EldoradoReviews und seinen Partnern zu erhalten",
 
       "header.home": "Startseite",
       "header.bonuses": "Bonis ▼",
@@ -1336,7 +1336,7 @@ const resources = {
       "subscribe.text": "von den Newslettern, die wir versenden!",
       "subscribe.link": "Sehen Sie einige Beispiele",
 
-      "topBrands.title": "Friendlybonuses Beste Auswahl für 2024",
+      "topBrands.title": "EldoradoReviews Beste Auswahl für 2024",
       "newBrands.title": "Neueste Casino-Neuzugänge 2024",
 
       "reviewBrands.title1": "Alle sorgfältig geprüften Online-Casinos",
@@ -1676,9 +1676,9 @@ const resources = {
         "Freischaltung von 15 Websites, die Ihre Marke auf neue Höhen bringen werden",
       "footer.link": "Arbeiten Sie mit uns",
       "footer.about":
-        "Friendlybonuses.com positioniert sich als außergewöhnliche Informationsquelle über virtuelle Spielstätten und Online-Glücksspielunterhaltung. Alle unsere Bewertungen und Anleitungen werden in Übereinstimmung mit dem Wissen und den Überzeugungen unseres unabhängigen Expertenteams objektiv und ohne jegliche Voreingenommenheit verfasst. Dennoch dienen solche Bewertungen und Benachrichtigungen ausschließlich zu Informationszwecken und sollten nicht als rechtliche Beratung oder Grundlage für rechtliche Entscheidungen betrachtet werden. Bevor Sie an Ihrem gewählten Casino teilnehmen, stellen Sie bitte immer sicher, dass Sie alle geltenden rechtlichen Anforderungen erfüllen.",
+        "eldoradoreviews.com positioniert sich als außergewöhnliche Informationsquelle über virtuelle Spielstätten und Online-Glücksspielunterhaltung. Alle unsere Bewertungen und Anleitungen werden in Übereinstimmung mit dem Wissen und den Überzeugungen unseres unabhängigen Expertenteams objektiv und ohne jegliche Voreingenommenheit verfasst. Dennoch dienen solche Bewertungen und Benachrichtigungen ausschließlich zu Informationszwecken und sollten nicht als rechtliche Beratung oder Grundlage für rechtliche Entscheidungen betrachtet werden. Bevor Sie an Ihrem gewählten Casino teilnehmen, stellen Sie bitte immer sicher, dass Sie alle geltenden rechtlichen Anforderungen erfüllen.",
       "footer.copyright":
-        "Urheberrecht © 2024, Friendlybonuses.com Alle Rechte vorbehalten.",
+        "Urheberrecht © 2024, eldoradoreviews.com Alle Rechte vorbehalten.",
     },
   },
 
@@ -1686,12 +1686,12 @@ const resources = {
     translation: {
       guideposts: enTranslation,
       guideslotsguide:
-        "If you aspire to hit the jackpot, delve into the world of online slots through our comprehensive guides on Friendlybonuses.com. All the information you need, from paylines to progressive jackpots, is available on a single platform! Stay updated with the latest developments in the slot gambling realm and even try out free slot games directly from your device. Our collection of online gambling guides ensures easy access to all there is to know about slots. While it might seem like slot machines are a matter of mere 'hit and spin', there are tricks and strategies that can enhance your experience. Our guides are designed to empower you with a complete understanding of how slots operate, granting you full control over your gaming sessions.",
+        "If you aspire to hit the jackpot, delve into the world of online slots through our comprehensive guides on eldoradoreviews.com. All the information you need, from paylines to progressive jackpots, is available on a single platform! Stay updated with the latest developments in the slot gambling realm and even try out free slot games directly from your device. Our collection of online gambling guides ensures easy access to all there is to know about slots. While it might seem like slot machines are a matter of mere 'hit and spin', there are tricks and strategies that can enhance your experience. Our guides are designed to empower you with a complete understanding of how slots operate, granting you full control over your gaming sessions.",
       guideslotsguide2:
         "In search of the perfect repository for tips, fun facts, and advice to boost your chances of winning? Look no further as we provide quick access to some of the most relevant slots guides and free slots games hosted on our website.",
       "guideslotsguide.title": "Gambling Guides",
       "guideslotsguide.excerpt":
-        "If you aspire to hit the jackpot, delve into the world of online slots through our comprehensive guides on Friendlybonuses.com. All the information you need, from paylines to progressive jackpots, is available on a single platform! Stay updated with the latest developments in the slot gambling realm and even try out free slot games directly from your device.",
+        "If you aspire to hit the jackpot, delve into the world of online slots through our comprehensive guides on eldoradoreviews.com. All the information you need, from paylines to progressive jackpots, is available on a single platform! Stay updated with the latest developments in the slot gambling realm and even try out free slot games directly from your device.",
       "subscribe.button": "Subscribe",
       "subscribe.email": "Email",
       "subscribe.players": "players subscribed",
@@ -1704,7 +1704,7 @@ const resources = {
       "subscribe.and": "and",
       "subscribe.policy": " Privacy Policy ",
 
-      "subscribe.promotional": "I agree to receive promotional emails from Friendlybonuses and its partners",
+      "subscribe.promotional": "I agree to receive promotional emails from EldoradoReviews and its partners",
 
       "header.home": "Home",
       "header.bonuses": "Bonuses ▼",
@@ -1752,7 +1752,7 @@ const resources = {
       "subscribe.text": "of the newsletters we're sending out!",
       "subscribe.link": "See some examples",
 
-      "topBrands.title": "Friendlybonuses Best Choices for 2024",
+      "topBrands.title": "EldoradoReviews Best Choices for 2024",
       "newBrands.title": "Latest Casino Additions 2024",
 
       "reviewBrands.title1": "All meticulously reviewed online casinos",
@@ -2088,9 +2088,9 @@ const resources = {
         "Unlocking 15 Websites That Will Boost Your Brand to New Heights",
       "footer.link": "Start Working With Us",
       "footer.about":
-        "Friendlybonuses.com positions itself as an exceptional source of information about virtual gaming establishments and online gambling entertainment. All our reviews and guides are crafted in accordance with the knowledge and convictions of our independent team of experts, objectively and without any bias. Nevertheless,such assessments and notifications are provided solely for informational purposes and should not be considered legal advice or a basis for making legal decisions. Before commencing participation in your chosen casino, always ensure that you comply with all applicable legal requirements.",
+        "eldoradoreviews.com positions itself as an exceptional source of information about virtual gaming establishments and online gambling entertainment. All our reviews and guides are crafted in accordance with the knowledge and convictions of our independent team of experts, objectively and without any bias. Nevertheless,such assessments and notifications are provided solely for informational purposes and should not be considered legal advice or a basis for making legal decisions. Before commencing participation in your chosen casino, always ensure that you comply with all applicable legal requirements.",
       "footer.copyright":
-        "Copyright © 2024, Friendlybonuses.com All rights reserved.",
+        "Copyright © 2024, eldoradoreviews.com All rights reserved.",
     },
   },
 
@@ -2098,12 +2098,12 @@ const resources = {
     translation: {
       guideposts: enTranslation,
       guideslotsguide:
-        "If you aspire to hit the jackpot, delve into the world of online slots through our comprehensive guides on Friendlybonuses.com. All the information you need, from paylines to progressive jackpots, is available on a single platform! Stay updated with the latest developments in the slot gambling realm and even try out free slot games directly from your device. Our collection of online gambling guides ensures easy access to all there is to know about slots. While it might seem like slot machines are a matter of mere 'hit and spin', there are tricks and strategies that can enhance your experience. Our guides are designed to empower you with a complete understanding of how slots operate, granting you full control over your gaming sessions.",
+        "If you aspire to hit the jackpot, delve into the world of online slots through our comprehensive guides on eldoradoreviews.com. All the information you need, from paylines to progressive jackpots, is available on a single platform! Stay updated with the latest developments in the slot gambling realm and even try out free slot games directly from your device. Our collection of online gambling guides ensures easy access to all there is to know about slots. While it might seem like slot machines are a matter of mere 'hit and spin', there are tricks and strategies that can enhance your experience. Our guides are designed to empower you with a complete understanding of how slots operate, granting you full control over your gaming sessions.",
       guideslotsguide2:
         "In search of the perfect repository for tips, fun facts, and advice to boost your chances of winning? Look no further as we provide quick access to some of the most relevant slots guides and free slots games hosted on our website.",
       "guideslotsguide.title": "Gambling Guides",
       "guideslotsguide.excerpt":
-        "If you aspire to hit the jackpot, delve into the world of online slots through our comprehensive guides on Friendlybonuses.com. All the information you need, from paylines to progressive jackpots, is available on a single platform! Stay updated with the latest developments in the slot gambling realm and even try out free slot games directly from your device.",
+        "If you aspire to hit the jackpot, delve into the world of online slots through our comprehensive guides on eldoradoreviews.com. All the information you need, from paylines to progressive jackpots, is available on a single platform! Stay updated with the latest developments in the slot gambling realm and even try out free slot games directly from your device.",
       "subscribe.button": "Subscribe",
       "subscribe.email": "Email",
       "subscribe.players": "players subscribed",
@@ -2116,7 +2116,7 @@ const resources = {
       "subscribe.and": "and",
       "subscribe.policy": " Privacy Policy ",
 
-      "subscribe.promotional": "I agree to receive promotional emails from Friendlybonuses and its partners",
+      "subscribe.promotional": "I agree to receive promotional emails from EldoradoReviews and its partners",
 
       "header.home": "Home",
       "header.bonuses": "Bonuses ▼",
@@ -2164,7 +2164,7 @@ const resources = {
       "subscribe.text": "of the newsletters we're sending out!",
       "subscribe.link": "See some examples",
 
-      "topBrands.title": "Friendlybonuses Best Choices for 2024",
+      "topBrands.title": "EldoradoReviews Best Choices for 2024",
       "newBrands.title": "Latest Casino Additions 2024",
 
       "reviewBrands.title1": "All meticulously reviewed online casinos",
@@ -2500,9 +2500,9 @@ const resources = {
         "Unlocking 15 Websites That Will Boost Your Brand to New Heights",
       "footer.link": "Start Working With Us",
       "footer.about":
-        "Friendlybonuses.com positions itself as an exceptional source of information about virtual gaming establishments and online gambling entertainment. All our reviews and guides are crafted in accordance with the knowledge and convictions of our independent team of experts, objectively and without any bias. Nevertheless,such assessments and notifications are provided solely for informational purposes and should not be considered legal advice or a basis for making legal decisions. Before commencing participation in your chosen casino, always ensure that you comply with all applicable legal requirements.",
+        "eldoradoreviews.com positions itself as an exceptional source of information about virtual gaming establishments and online gambling entertainment. All our reviews and guides are crafted in accordance with the knowledge and convictions of our independent team of experts, objectively and without any bias. Nevertheless,such assessments and notifications are provided solely for informational purposes and should not be considered legal advice or a basis for making legal decisions. Before commencing participation in your chosen casino, always ensure that you comply with all applicable legal requirements.",
       "footer.copyright":
-        "Copyright © 2024, Friendlybonuses.com All rights reserved.",
+        "Copyright © 2024, eldoradoreviews.com All rights reserved.",
     },
   },
 
@@ -2510,12 +2510,12 @@ const resources = {
     translation: {
       guideposts: deTranslation,
       guideslotsguide:
-        "Wenn Sie darauf abzielen, den Jackpot zu knacken, tauchen Sie ein in die Welt der Online-Slots durch unsere umfassenden Anleitungen auf Friendlybonuses.com. Alle Informationen, die Sie benötigen, von Gewinnlinien bis zu progressiven Jackpots, sind auf einer einzigen Plattform verfügbar! Bleiben Sie auf dem Laufenden über die neuesten Entwicklungen im Bereich des Slot-Glücksspiels und probieren Sie sogar kostenlose Slot-Spiele direkt von Ihrem Gerät aus. Unsere Sammlung von Online-Glücksspielführern ermöglicht Ihnen einen einfachen Zugang zu allem, was es über Slots zu wissen gibt. Obwohl es auf den ersten Blick so erscheinen mag, als ob Spielautomaten nur ein simples 'Drehen und Gewinnen' sind, gibt es Tricks und Strategien, die Ihr Erlebnis verbessern können. Unsere Anleitungen sind darauf ausgerichtet, Ihnen ein umfassendes Verständnis dafür zu vermitteln, wie Slots funktionieren, und Ihnen volle Kontrolle über Ihre Spielerlebnisse zu gewähren.",
+        "Wenn Sie darauf abzielen, den Jackpot zu knacken, tauchen Sie ein in die Welt der Online-Slots durch unsere umfassenden Anleitungen auf eldoradoreviews.com. Alle Informationen, die Sie benötigen, von Gewinnlinien bis zu progressiven Jackpots, sind auf einer einzigen Plattform verfügbar! Bleiben Sie auf dem Laufenden über die neuesten Entwicklungen im Bereich des Slot-Glücksspiels und probieren Sie sogar kostenlose Slot-Spiele direkt von Ihrem Gerät aus. Unsere Sammlung von Online-Glücksspielführern ermöglicht Ihnen einen einfachen Zugang zu allem, was es über Slots zu wissen gibt. Obwohl es auf den ersten Blick so erscheinen mag, als ob Spielautomaten nur ein simples 'Drehen und Gewinnen' sind, gibt es Tricks und Strategien, die Ihr Erlebnis verbessern können. Unsere Anleitungen sind darauf ausgerichtet, Ihnen ein umfassendes Verständnis dafür zu vermitteln, wie Slots funktionieren, und Ihnen volle Kontrolle über Ihre Spielerlebnisse zu gewähren.",
       guideslotsguide2:
         "Auf der Suche nach dem perfekten Handbuch für Tipps, unterhaltsame Fakten und Ratschläge, um Ihre Gewinnchancen zu steigern? Suchen Sie nicht weiter, denn wir bieten schnellen Zugriff auf einige der relevantesten Slot-Anleitungen und kostenlose Slot-Spiele, die auf unserer Website gehostet werden.",
       "guideslotsguide.title": "Glücksspiel-Anleitungen",
       "guideslotsguide.excerpt":
-        "Wenn Sie den Jackpot knacken möchten, tauchen Sie ein in die Welt der Online-Slots durch unsere umfassenden Anleitungen auf Friendlybonuses.com. Alle Informationen, die Sie benötigen, von Gewinnlinien bis zu progressiven Jackpots, sind auf einer einzigen Plattform verfügbar! Bleiben Sie auf dem Laufenden über die neuesten Entwicklungen im Bereich des Slot-Glücksspiels und probieren Sie sogar kostenlose Slot-Spiele direkt von Ihrem Gerät aus.",
+        "Wenn Sie den Jackpot knacken möchten, tauchen Sie ein in die Welt der Online-Slots durch unsere umfassenden Anleitungen auf eldoradoreviews.com. Alle Informationen, die Sie benötigen, von Gewinnlinien bis zu progressiven Jackpots, sind auf einer einzigen Plattform verfügbar! Bleiben Sie auf dem Laufenden über die neuesten Entwicklungen im Bereich des Slot-Glücksspiels und probieren Sie sogar kostenlose Slot-Spiele direkt von Ihrem Gerät aus.",
       "subscribe.button": "Abonnieren",
       "subscribe.email": "E-Mail",
       "subscribe.players": "abonnierte Spieler",
@@ -2527,7 +2527,7 @@ const resources = {
       "subscribe.terms": "Allgemeinen Geschäftsbedingungen",
       "subscribe.and": "und",
       "subscribe.policy": "Datenschutzrichtlinie",
-      "subscribe.promotional": "Ich stimme zu, Werbe-E-Mails von Friendlybonuses und seinen Partnern zu erhalten",
+      "subscribe.promotional": "Ich stimme zu, Werbe-E-Mails von EldoradoReviews und seinen Partnern zu erhalten",
       "play.to.casino": "Jetzt im Casino spielen",
       "header.home": "Startseite",
       "header.bonuses": "Bonis ▼",
@@ -2574,7 +2574,7 @@ const resources = {
       "subscribe.text": "von den Newslettern, die wir versenden!",
       "subscribe.link": "Sehen Sie einige Beispiele",
 
-      "topBrands.title": "Friendlybonuses Beste Auswahl für 2024",
+      "topBrands.title": "EldoradoReviews Beste Auswahl für 2024",
       "newBrands.title": "Neueste Casino-Neuzugänge 2024",
 
       "reviewBrands.title1": "Alle sorgfältig geprüften Online-Casinos",
@@ -2914,9 +2914,9 @@ const resources = {
         "Freischaltung von 15 Websites, die Ihre Marke auf neue Höhen bringen werden",
       "footer.link": "Arbeiten Sie mit uns",
       "footer.about":
-        "Friendlybonuses.com positioniert sich als außergewöhnliche Informationsquelle über virtuelle Spielstätten und Online-Glücksspielunterhaltung. Alle unsere Bewertungen und Anleitungen werden in Übereinstimmung mit dem Wissen und den Überzeugungen unseres unabhängigen Expertenteams objektiv und ohne jegliche Voreingenommenheit verfasst. Dennoch dienen solche Bewertungen und Benachrichtigungen ausschließlich zu Informationszwecken und sollten nicht als rechtliche Beratung oder Grundlage für rechtliche Entscheidungen betrachtet werden. Bevor Sie an Ihrem gewählten Casino teilnehmen, stellen Sie bitte immer sicher, dass Sie alle geltenden rechtlichen Anforderungen erfüllen.",
+        "eldoradoreviews.com positioniert sich als außergewöhnliche Informationsquelle über virtuelle Spielstätten und Online-Glücksspielunterhaltung. Alle unsere Bewertungen und Anleitungen werden in Übereinstimmung mit dem Wissen und den Überzeugungen unseres unabhängigen Expertenteams objektiv und ohne jegliche Voreingenommenheit verfasst. Dennoch dienen solche Bewertungen und Benachrichtigungen ausschließlich zu Informationszwecken und sollten nicht als rechtliche Beratung oder Grundlage für rechtliche Entscheidungen betrachtet werden. Bevor Sie an Ihrem gewählten Casino teilnehmen, stellen Sie bitte immer sicher, dass Sie alle geltenden rechtlichen Anforderungen erfüllen.",
       "footer.copyright":
-        "Urheberrecht © 2024, Friendlybonuses.com Alle Rechte vorbehalten.",
+        "Urheberrecht © 2024, eldoradoreviews.com Alle Rechte vorbehalten.",
     },
   },
 
@@ -2924,12 +2924,12 @@ const resources = {
     translation: {
       guideposts: deTranslation,
       guideslotsguide:
-        "Wenn Sie darauf abzielen, den Jackpot zu knacken, tauchen Sie ein in die Welt der Online-Slots durch unsere umfassenden Anleitungen auf Friendlybonuses.com. Alle Informationen, die Sie benötigen, von Gewinnlinien bis zu progressiven Jackpots, sind auf einer einzigen Plattform verfügbar! Bleiben Sie auf dem Laufenden über die neuesten Entwicklungen im Bereich des Slot-Glücksspiels und probieren Sie sogar kostenlose Slot-Spiele direkt von Ihrem Gerät aus. Unsere Sammlung von Online-Glücksspielführern ermöglicht Ihnen einen einfachen Zugang zu allem, was es über Slots zu wissen gibt. Obwohl es auf den ersten Blick so erscheinen mag, als ob Spielautomaten nur ein simples 'Drehen und Gewinnen' sind, gibt es Tricks und Strategien, die Ihr Erlebnis verbessern können. Unsere Anleitungen sind darauf ausgerichtet, Ihnen ein umfassendes Verständnis dafür zu vermitteln, wie Slots funktionieren, und Ihnen volle Kontrolle über Ihre Spielerlebnisse zu gewähren.",
+        "Wenn Sie darauf abzielen, den Jackpot zu knacken, tauchen Sie ein in die Welt der Online-Slots durch unsere umfassenden Anleitungen auf eldoradoreviews.com. Alle Informationen, die Sie benötigen, von Gewinnlinien bis zu progressiven Jackpots, sind auf einer einzigen Plattform verfügbar! Bleiben Sie auf dem Laufenden über die neuesten Entwicklungen im Bereich des Slot-Glücksspiels und probieren Sie sogar kostenlose Slot-Spiele direkt von Ihrem Gerät aus. Unsere Sammlung von Online-Glücksspielführern ermöglicht Ihnen einen einfachen Zugang zu allem, was es über Slots zu wissen gibt. Obwohl es auf den ersten Blick so erscheinen mag, als ob Spielautomaten nur ein simples 'Drehen und Gewinnen' sind, gibt es Tricks und Strategien, die Ihr Erlebnis verbessern können. Unsere Anleitungen sind darauf ausgerichtet, Ihnen ein umfassendes Verständnis dafür zu vermitteln, wie Slots funktionieren, und Ihnen volle Kontrolle über Ihre Spielerlebnisse zu gewähren.",
       guideslotsguide2:
         "Auf der Suche nach dem perfekten Handbuch für Tipps, unterhaltsame Fakten und Ratschläge, um Ihre Gewinnchancen zu steigern? Suchen Sie nicht weiter, denn wir bieten schnellen Zugriff auf einige der relevantesten Slot-Anleitungen und kostenlose Slot-Spiele, die auf unserer Website gehostet werden.",
       "guideslotsguide.title": "Glücksspiel-Anleitungen",
       "guideslotsguide.excerpt":
-        "Wenn Sie den Jackpot knacken möchten, tauchen Sie ein in die Welt der Online-Slots durch unsere umfassenden Anleitungen auf Friendlybonuses.com. Alle Informationen, die Sie benötigen, von Gewinnlinien bis zu progressiven Jackpots, sind auf einer einzigen Plattform verfügbar! Bleiben Sie auf dem Laufenden über die neuesten Entwicklungen im Bereich des Slot-Glücksspiels und probieren Sie sogar kostenlose Slot-Spiele direkt von Ihrem Gerät aus.",
+        "Wenn Sie den Jackpot knacken möchten, tauchen Sie ein in die Welt der Online-Slots durch unsere umfassenden Anleitungen auf eldoradoreviews.com. Alle Informationen, die Sie benötigen, von Gewinnlinien bis zu progressiven Jackpots, sind auf einer einzigen Plattform verfügbar! Bleiben Sie auf dem Laufenden über die neuesten Entwicklungen im Bereich des Slot-Glücksspiels und probieren Sie sogar kostenlose Slot-Spiele direkt von Ihrem Gerät aus.",
       "subscribe.button": "Abonnieren",
       "subscribe.email": "E-Mail",
       "subscribe.players": "abonnierte Spieler",
@@ -2941,7 +2941,7 @@ const resources = {
       "subscribe.terms": "Allgemeinen Geschäftsbedingungen",
       "subscribe.and": "und",
       "subscribe.policy": "Datenschutzrichtlinie",
-      "subscribe.promotional": "Ich stimme zu, Werbe-E-Mails von Friendlybonuses und seinen Partnern zu erhalten",
+      "subscribe.promotional": "Ich stimme zu, Werbe-E-Mails von EldoradoReviews und seinen Partnern zu erhalten",
 
       "play.to.casino": "Jetzt im Casino spielen",
       "header.home": "Startseite",
@@ -2989,7 +2989,7 @@ const resources = {
       "subscribe.text": "von den Newslettern, die wir versenden!",
       "subscribe.link": "Sehen Sie einige Beispiele",
 
-      "topBrands.title": "Friendlybonuses Beste Auswahl für 2024",
+      "topBrands.title": "EldoradoReviews Beste Auswahl für 2024",
       "newBrands.title": "Neueste Casino-Neuzugänge 2024",
 
       "reviewBrands.title1": "Alle sorgfältig geprüften Online-Casinos",
@@ -3329,9 +3329,9 @@ const resources = {
         "Freischaltung von 15 Websites, die Ihre Marke auf neue Höhen bringen werden",
       "footer.link": "Arbeiten Sie mit uns",
       "footer.about":
-        "Friendlybonuses.com positioniert sich als außergewöhnliche Informationsquelle über virtuelle Spielstätten und Online-Glücksspielunterhaltung. Alle unsere Bewertungen und Anleitungen werden in Übereinstimmung mit dem Wissen und den Überzeugungen unseres unabhängigen Expertenteams objektiv und ohne jegliche Voreingenommenheit verfasst. Dennoch dienen solche Bewertungen und Benachrichtigungen ausschließlich zu Informationszwecken und sollten nicht als rechtliche Beratung oder Grundlage für rechtliche Entscheidungen betrachtet werden. Bevor Sie an Ihrem gewählten Casino teilnehmen, stellen Sie bitte immer sicher, dass Sie alle geltenden rechtlichen Anforderungen erfüllen.",
+        "eldoradoreviews.com positioniert sich als außergewöhnliche Informationsquelle über virtuelle Spielstätten und Online-Glücksspielunterhaltung. Alle unsere Bewertungen und Anleitungen werden in Übereinstimmung mit dem Wissen und den Überzeugungen unseres unabhängigen Expertenteams objektiv und ohne jegliche Voreingenommenheit verfasst. Dennoch dienen solche Bewertungen und Benachrichtigungen ausschließlich zu Informationszwecken und sollten nicht als rechtliche Beratung oder Grundlage für rechtliche Entscheidungen betrachtet werden. Bevor Sie an Ihrem gewählten Casino teilnehmen, stellen Sie bitte immer sicher, dass Sie alle geltenden rechtlichen Anforderungen erfüllen.",
       "footer.copyright":
-        "Urheberrecht © 2024, Friendlybonuses.com Alle Rechte vorbehalten.",
+        "Urheberrecht © 2024, eldoradoreviews.com Alle Rechte vorbehalten.",
     },
   },
 
@@ -3339,12 +3339,12 @@ const resources = {
     translation: {
       guideposts: enTranslation,
       guideslotsguide:
-        "If you aspire to hit the jackpot, delve into the world of online slots through our comprehensive guides on Friendlybonuses.com. All the information you need, from paylines to progressive jackpots, is available on a single platform! Stay updated with the latest developments in the slot gambling realm and even try out free slot games directly from your device. Our collection of online gambling guides ensures easy access to all there is to know about slots. While it might seem like slot machines are a matter of mere 'hit and spin', there are tricks and strategies that can enhance your experience. Our guides are designed to empower you with a complete understanding of how slots operate, granting you full control over your gaming sessions.",
+        "If you aspire to hit the jackpot, delve into the world of online slots through our comprehensive guides on eldoradoreviews.com. All the information you need, from paylines to progressive jackpots, is available on a single platform! Stay updated with the latest developments in the slot gambling realm and even try out free slot games directly from your device. Our collection of online gambling guides ensures easy access to all there is to know about slots. While it might seem like slot machines are a matter of mere 'hit and spin', there are tricks and strategies that can enhance your experience. Our guides are designed to empower you with a complete understanding of how slots operate, granting you full control over your gaming sessions.",
       guideslotsguide2:
         "In search of the perfect repository for tips, fun facts, and advice to boost your chances of winning? Look no further as we provide quick access to some of the most relevant slots guides and free slots games hosted on our website.",
       "guideslotsguide.title": "Gambling Guides",
       "guideslotsguide.excerpt":
-        "If you aspire to hit the jackpot, delve into the world of online slots through our comprehensive guides on Friendlybonuses.com. All the information you need, from paylines to progressive jackpots, is available on a single platform! Stay updated with the latest developments in the slot gambling realm and even try out free slot games directly from your device.",
+        "If you aspire to hit the jackpot, delve into the world of online slots through our comprehensive guides on eldoradoreviews.com. All the information you need, from paylines to progressive jackpots, is available on a single platform! Stay updated with the latest developments in the slot gambling realm and even try out free slot games directly from your device.",
       "play.to.casino": "Play now to this Casino",
 
       "subscribe.button": "Subscribe",
@@ -3359,7 +3359,7 @@ const resources = {
       "subscribe.and": "and",
       "subscribe.policy": " Privacy Policy ",
 
-      "subscribe.promotional": "I agree to receive promotional emails from Friendlybonuses and its partners",
+      "subscribe.promotional": "I agree to receive promotional emails from EldoradoReviews and its partners",
 
       "header.home": "Home",
       "header.bonuses": "Bonuses ▼",
@@ -3406,7 +3406,7 @@ const resources = {
       "subscribe.text": "of the newsletters we're sending out!",
       "subscribe.link": "See some examples",
 
-      "topBrands.title": "Friendlybonuses Best Choices for 2024",
+      "topBrands.title": "EldoradoReviews Best Choices for 2024",
       "newBrands.title": "Latest Casino Additions 2024",
 
       "reviewBrands.title1": "All meticulously reviewed online casinos",
@@ -3741,9 +3741,9 @@ const resources = {
         "Unlocking 15 Websites That Will Boost Your Brand to New Heights",
       "footer.link": "Start Working With Us",
       "footer.about":
-        "Friendlybonuses.com positions itself as an exceptional source of information about virtual gaming establishments and online gambling entertainment. All our reviews and guides are crafted in accordance with the knowledge and convictions of our independent team of experts, objectively and without any bias. Nevertheless,such assessments and notifications are provided solely for informational purposes and should not be considered legal advice or a basis for making legal decisions. Before commencing participation in your chosen casino, always ensure that you comply with all applicable legal requirements.",
+        "eldoradoreviews.com positions itself as an exceptional source of information about virtual gaming establishments and online gambling entertainment. All our reviews and guides are crafted in accordance with the knowledge and convictions of our independent team of experts, objectively and without any bias. Nevertheless,such assessments and notifications are provided solely for informational purposes and should not be considered legal advice or a basis for making legal decisions. Before commencing participation in your chosen casino, always ensure that you comply with all applicable legal requirements.",
       "footer.copyright":
-        "Copyright © 2024, Friendlybonuses.com All rights reserved.",
+        "Copyright © 2024, eldoradoreviews.com All rights reserved.",
     },
   },
   // Add translations for other languages here
