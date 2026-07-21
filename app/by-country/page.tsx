@@ -8,8 +8,8 @@ import GuideSlotsPage from "@/components/GuideSlotsPage";
 import AllCasinos from "@/components/country/AllCasinos";
 
 export const metadata: Metadata = {
-  title: "All Casinos by Country | Friendlybonuses",
-  description: "Welcome to Friendlybonuses, your ultimate guide to the world of casinos, organized by country! Whether you’re a seasoned high-roller or a beginner, our comprehensive list gives you a panoramic view of the casino landscape in countries around the globe. From the vibrant casinos in Las Vegas to the classic venues in Monte Carlo, we cover it all. Dive into our reviews, ratings, and exclusive tips to make the most of your gaming experience!",
+  title: "All Casinos by Country | DolceVitaPartners",
+  description: "Welcome to DolceVitaPartners, your ultimate guide to the world of casinos, organized by country! Whether you’re a seasoned high-roller or a beginner, our comprehensive list gives you a panoramic view of the casino landscape in countries around the globe. From the vibrant casinos in Las Vegas to the classic venues in Monte Carlo, we cover it all. Dive into our reviews, ratings, and exclusive tips to make the most of your gaming experience!",
 };
 
 export default async function Bonuses() {
