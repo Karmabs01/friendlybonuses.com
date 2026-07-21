@@ -39,7 +39,7 @@ const Subscribe = () => {
     // Остальная логика...
   }, []);
 
-  const handleSubscribe = () => {
+  const handleSubscribe = async () => {
     setError("");
 
     // Need at least one contact method (email OR phone)
@@ -55,26 +55,29 @@ const Subscribe = () => {
 
     setLoading(true);
 
-    const identifier = email || phone;
-    const traits = { id: identifier, created_at: Math.floor(Date.now() / 1000) };
-    if (email) traits.email = email;
-    if (phone) traits.phone = phone;
-
     try {
-      if (typeof window !== "undefined" && window._cio) {
-        window._cio.identify(traits);
-        window._cio.track("subscribed", { email, phone });
-      }
+      const res = await fetch("/api/subscribe", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          email,
+          phone,
+          page: typeof window !== "undefined" ? window.location.href : "",
+        }),
+      });
+      if (!res.ok) throw new Error("request failed");
+
+      setEmail("");
+      setPhone("");
+      setPopupText(t("subscribe.congrats"));
+      setPopupVisible(true);
+      setCountUsers((prevCount) => prevCount + 1);
     } catch (err) {
       console.error("subscribe error", err);
+      setError(t("subscribe.error1"));
+    } finally {
+      setLoading(false);
     }
-
-    setEmail("");
-    setPhone("");
-    setPopupText(t("subscribe.congrats"));
-    setPopupVisible(true);
-    setCountUsers((prevCount) => prevCount + 1);
-    setLoading(false);
   };
 
   const closePopup = () => {
