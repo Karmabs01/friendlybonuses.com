@@ -74,7 +74,7 @@ const Subscribe = () => {
       setCountUsers((prevCount) => prevCount + 1);
     } catch (err) {
       console.error("subscribe error", err);
-      setError(t("subscribe.error1"));
+      setError("Something went wrong. Please try again later.");
     } finally {
       setLoading(false);
     }
