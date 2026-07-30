@@ -8,8 +8,8 @@ import GuideSlotsPage from "@/components/GuideSlotsPage";
 import Australia from "@/components/country/Australia";
 
 export const metadata: Metadata = {
-  title: "Australian casino | Friendlybonuses",
-  description: "Embark on an unforgettable journey through the world of Australian online casinos with our comprehensive guide at Friendlybonuses. Specially curated for Australian players, our guide meticulously reviews the finest online casinos available in Australia. We focus on crucial elements such as game variety, AUD payment methods, language preferences, and dedicated customer support. Additionally, our guide provides valuable insights into the legal landscape governing online gambling in Australia, ensuring you can enjoy your gaming responsibly and within the confines of the law. Peruse our curated list of trusted casinos that cater to Australian players, delivering an authentic and enriching gaming experience. Whether you're located in Australia or intrigued by the Australian casino scene, our guide is your ultimate source of information and entertainment.",
+  title: "Australian casino | PlayToWinning",
+  description: "Embark on an unforgettable journey through the world of Australian online casinos with our comprehensive guide at PlayToWinning. Specially curated for Australian players, our guide meticulously reviews the finest online casinos available in Australia. We focus on crucial elements such as game variety, AUD payment methods, language preferences, and dedicated customer support. Additionally, our guide provides valuable insights into the legal landscape governing online gambling in Australia, ensuring you can enjoy your gaming responsibly and within the confines of the law. Peruse our curated list of trusted casinos that cater to Australian players, delivering an authentic and enriching gaming experience. Whether you're located in Australia or intrigued by the Australian casino scene, our guide is your ultimate source of information and entertainment.",
 };
 
 export default async function Bonuses() {
