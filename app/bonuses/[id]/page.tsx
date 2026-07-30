@@ -22,7 +22,7 @@ export async function generateMetadata({
 }: Props): Promise<Metadata> {
   const brand = await getData(id);
   return {
-    title: `${brand.title.rendered} | Friendlybonuses | Bonuses`,
+    title: `${brand.title.rendered} | WinToFast | Bonuses`,
   };
 }
 
