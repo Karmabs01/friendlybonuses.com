@@ -18,7 +18,7 @@ const Subscribe = () => {
   const [popupVisible, setPopupVisible] = useState(false);
   const [sliderVisible, setSliderVisible] = useState(false);
   const { t } = useTranslation();
-  const [countUsers, setCountUsers] = useState(52500);
+  const [countUsers, setCountUsers] = useState(53183);
 
   const [termsAgreed, setTermsAgreed] = useState(false);
   const [privacyAgreed, setPrivacyAgreed] = useState(false);
@@ -29,7 +29,7 @@ const Subscribe = () => {
     const currentTimeNow = Date.now();
     const targetTimestamp = new Date("2023-09-04T19:00:00").getTime();
     const timeDifference = currentTimeNow - targetTimestamp;
-    const users = (timeDifference / 600000) * 0.21;
+    const users = (timeDifference / 600000) * 0.212732;
     const roundedNumber = Math.round(users);
 
     console.log(roundedNumber);
