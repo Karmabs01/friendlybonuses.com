@@ -8,8 +8,8 @@ import GuideSlotsPage from "@/components/GuideSlotsPage";
 import TopCertifiedCasinos from "@/components/casinos/TopCertifiedCasinos";
 
 export const metadata: Metadata = {
-  title: "Top Certified Casinos | Friendlybonuses",
-  description: "Explore the crème de la crème of the gaming industry with our list of Top Certified Casinos at Friendlybonuses. We've scrutinized countless platforms to bring you a curated list of casinos that are not only exciting but also 100% secure and certified. With rigorous standards for quality, fair play, and customer service, these casinos set the benchmark in the industry. Get ready for a trustworthy and exhilarating gaming experience with our handpicked selections!",
+  title: "Top Certified Casinos | TopWeekPrize",
+  description: "Explore the crème de la crème of the gaming industry with our list of Top Certified Casinos at TopWeekPrize. We've scrutinized countless platforms to bring you a curated list of casinos that are not only exciting but also 100% secure and certified. With rigorous standards for quality, fair play, and customer service, these casinos set the benchmark in the industry. Get ready for a trustworthy and exhilarating gaming experience with our handpicked selections!",
 };
 
 export default async function Bonuses() {
